@@ -19,7 +19,7 @@ $ php ora.php config <editor>
 ```
 
 - Run:
-    ```sh
+```sh
 $ php ora.php 
 ```
 
