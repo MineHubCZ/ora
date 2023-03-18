@@ -1,6 +1,6 @@
 # ORA
 
-ORA is st**ora**ge usage checker written in php.
+ORA (she/her) is st**ora**ge usage checker written in php.
 
 ## Why php?
 
